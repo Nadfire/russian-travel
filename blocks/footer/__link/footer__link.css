@@ -1,0 +1,13 @@
+.footer__link {
+  display: block;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.125;
+  text-decoration: none;
+}
+
+.footer__link:hover {
+  transition: opacity 0.2s linear;
+  opacity: 0.8;
+}
