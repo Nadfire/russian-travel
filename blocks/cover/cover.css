@@ -1,5 +1,21 @@
 .cover {
   max-width: 1184px;
-  min-height: 740px;
   margin: auto;
+  position: relative;
+}
+
+.cover::after {
+  content: "";
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #2a2c2f;
+  position: absolute;
+  opacity: 0.3;
+  transition: opacity 0.5s ease;
+}
+
+.cover:hover::after {
+  opacity: 0.8;
 }

@@ -11,3 +11,10 @@
   transition: opacity 0.2s linear;
   opacity: 0.8;
 }
+
+@media screen and (max-width: 767px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 1.11;
+  }
+}
