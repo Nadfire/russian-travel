@@ -4,8 +4,6 @@
 
 @import url("../blocks/page/page.css");
 
-/* @import url("../vendor/debug.css"); */
-
 /* header */
 
 @import url("../blocks/header/header.css");
@@ -48,8 +46,6 @@
 
 @import url("../blocks/photo-grid/__items/photo-grid__items.css");
 
-@import url("../blocks/photo-grid/__item/photo-grid__item.css");
-
 @import url("../blocks/photo-grid/__image/photo-grid__image.css");
 
 /* places */
@@ -67,6 +63,8 @@
 @import url("../blocks/place/__link/place__link.css");
 
 @import url("../blocks/place/__image/place__image.css");
+
+@import url("../blocks/place/__paragraphs/place__paragraphs.css");
 
 @import url("../blocks/place/__paragraph/place__paragraph.css");
 

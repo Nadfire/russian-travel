@@ -1,7 +1,7 @@
 .photo-grid {
   padding-top: 92px;
   padding-bottom: 92px;
-  margin: auto;
+  margin: 0 48px;
   max-width: 1184px;
 }
 
@@ -25,6 +25,5 @@
   .photo-grid {
     padding-top: 92px;
     padding-bottom: 92px;
-    margin: 0 48px;
   }
 }
