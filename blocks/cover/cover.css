@@ -3,7 +3,7 @@
   position: relative;
   height: calc(100vw / 1.6);
   /* aspect-ratio: 1.6; */
-  background-image: url(../../../images/cover-trains.jpg);
+  background-image: url(../../images/cover-trains.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
